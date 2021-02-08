@@ -1,0 +1,8 @@
+# quili
+
+quili is an 2D Pixelgame made with the Game-Engine Godot.
+
+The game is not published yet and is not in development anymore. But you can still download the Sourcecode on Github to make the game better because I will still accept pull requests. Also I want to get the game downloadable even in this early state. You can download this Game below.
+=> https://pukimaa.github.io/downloads/quili_setup_0.1.exe Download v0.1-alpha
+=> https://github.com/Pukimaa/Codename_quili Sourcecode
+=> How_it_looks.png How it looks

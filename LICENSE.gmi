@@ -1,0 +1,5 @@
+#License
+
+=> LICENSE.png License Image
+Pukima's personal capsule Pukima is licensed under a 
+=> http://creativecommons.org/licenses/by-nc-sa/4.0/ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
