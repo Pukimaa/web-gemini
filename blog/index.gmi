@@ -1,1 +1,1 @@
-=> /hi/index.gmi Hi!
+=> hi/index.gmi Hi!
