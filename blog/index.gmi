@@ -1,1 +1,1 @@
-Soon
+=> /hi/index.gmi Hi!
