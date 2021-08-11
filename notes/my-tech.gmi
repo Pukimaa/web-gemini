@@ -13,33 +13,33 @@ I am trying to be as eco-friendly as possible by buying used hardware or getting
 by family or friends ^^
 
 # Desktop Setup
-* Keyboard: `Razer Ornata Chroma V2`
-* Mouse: `Razer Deathadder Expert`
-* Mousepad: `Sidorenko XXL Gaming Mousepad - black` - I choosed this one because it has no logo on it.
-* Monitor: `Fujitsu Siemens 22" Monitor` (Image not from me) - had this laying around
+* Keyboard:  Razer Ornata Chroma V2 
+* Mouse:  Razer Deathadder Expert 
+* Mousepad:  Sidorenko XXL Gaming Mousepad - black  - I choosed this one because it has no logo on it.
+* Monitor:  Fujitsu Siemens 22" Monitor  (Image not from me) - had this laying around
 => ../assets/img/monitor.jpg Image
 * PC (Selfbuild):
-    * Graphics Card: `NVIDIA Geforce GTX 970`
-    * CPU: `Intel Core i5-3300 @3.00GHz`
-    * RAM: `16GB DDR3` (not exactly sure from which brand)
-    * Mainboard: `ASUSTeK COMPUTER INC. P8B75-M LX`
+    * Graphics Card:  NVIDIA Geforce GTX 970 
+    * CPU:  Intel Core i5-3300 @3.00GHz 
+    * RAM:  16GB DDR3  (not exactly sure from which brand)
+    * Mainboard:  ASUSTeK COMPUTER INC. P8B75-M LX 
     * Storage:
-        * `Intenso - 128 GB SSD` - used for System
-        * `1TB HDD` (not sure which brand) - used for Data (Games etc.)
-    * Wi-Fi: `Intel Wi-Fi 6 AX200`
+        *  Intenso - 128 GB SSD  - used for System
+        *  1TB HDD  (not sure which brand) - used for Data (Games etc.)
+    * Wi-Fi:  Intel Wi-Fi 6 AX200 
 * System (Dual-boot):
     * Ubuntu 21.04
     * Windows 10 Pro
 
 # Laptop
-* `Asus VivoBook X509DA` (I think)
+*  Asus VivoBook X509DA  (I think)
     *  comes with:
-        * CPU: `AMD Ryzen 5 3500U with Radeon Vega Mobile GFX`
-        * GPU: `AMD Picasso` - Intergrated Graphics
-        * RAM: `Samsung 4GB` + `Hynix 4GB` 
-        * Storage: `512GB SSD`
-    * System: `Ubuntu 21.04`
+        * CPU:  AMD Ryzen 5 3500U with Radeon Vega Mobile GFX 
+        * GPU:  AMD Picasso  - Intergrated Graphics
+        * RAM:  Samsung 4GB  +  Hynix 4GB  
+        * Storage:  512GB SSD 
+    * System:  Ubuntu 21.04 
 
 # Phones
-* `Nokia 4.2` - Primary Phone
-* `Wiko Lenny 5 (rooted)` - Secondary Phone (just if my primary is broken or I need root features)
+*  Nokia 4.2  - Primary Phone
+*  Wiko Lenny 5 (rooted)  - Secondary Phone (just if my primary is broken or I need root features)

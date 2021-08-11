@@ -15,6 +15,7 @@
     | |_\_____|______|_|  |_|_____|_| \_|_____| |______|_____/_____|  |_|  |_____\____/|_| \_|_| |                      
     |___|                                                                                    |___|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 ```
+
 You are here: Home
 => about.gmi About
 => contact.gmi Contact
@@ -30,7 +31,7 @@ Also this site is an
 => https://github.com/Pukimaa/web-gemini open-source project on GitHub
 so feel free to make a pull request if you have any improvements or use some of my
 code yourself...if you follow the 
-=> LICENSE.gm license
+=> LICENSE.gmi license
 
 => https://github.com/Pukimaa GitHub
 => https://koyu.space/@pukima Mastodon
