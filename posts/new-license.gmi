@@ -1,0 +1,17 @@
+You are here: New License
+=> ../index.gmi Home
+=> ../about.gmi About
+=> ../contact.gmi Contact
+=> ../notes Notes
+=> https://discord.gg/ngkUdXQZ8P Discord
+----------
+
+# New License
+2021-07-18 :: Pukima
+
+This Website has now a license 
+=> https://choosealicense.com/licenses/MIT MIT
+🎉
+also the footer text changed from `© 2021 Jaron Ain` to `License` which is a Link to
+=> ../LICENSE.gmi the License Page.
+I guess there is not much more to say except have a great Day ^^

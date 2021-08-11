@@ -1,0 +1,22 @@
+You are here: First Post
+=> ../index.gmi Home
+=> ../about.gmi About
+=> ../contact.gmi Contact
+=> ../notes Notes
+=> https://discord.gg/ngkUdXQZ8P Discord
+----------
+
+# First Post
+2021-07-17 (Last update: 2021-08-10) :: Pukima
+
+NOTE: This Site does not use Hugo or a theme cuz it is the gemini mirror. The Website I am talking about is:
+=> https://pukima.site pukima.site
+
+This is my new Blog on my new Website. To be honest I have no idea what I am going to write here. 
+Probably mostly about tech and neat stuff I discover. For example 
+=> https://gohugo.io Hugo
+which I use for this Website.
+Also theese post are just Markdown which is pretty neat. Hugo is pretty simple so you should try it out if you wanna create a fast website in minutes.
+Also there are great Themes for Hugo for example 
+=> https://themes.gohugo.io/themes/hugo-theme-terminal terminal 
+which this sites uses.

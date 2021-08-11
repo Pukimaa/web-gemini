@@ -1,0 +1,11 @@
+You are here: Posts
+=> ../index.gmi Home
+=> ../about.gmi About
+=> ../contact.gmi Contact
+=> ../notes Notes
+=> https://discord.gg/ngkUdXQZ8P Discord
+----------
+
+=> discord-server.gmi Discord Server
+=> new-license.gmi New License
+=> first-post.gmi First Post

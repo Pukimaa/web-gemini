@@ -1,0 +1,11 @@
+You are here: Notes
+=> ../index.gmi Home
+=> ../about.gmi About
+=> ../contact.gmi Contact
+=> https://discord.gg/ngkUdXQZ8P Discord
+----------
+
+=> xbox.gmi Xbox Portal
+=> movies.gmi Movies
+=> my-tech.gmi My Tech
+=> series.gmi Series
