@@ -27,7 +27,7 @@ games like Overwatch and programming a lot.
 Also I am one of the person who likes pizza🍕 with pineapple🍍...maybe
 you hate me now but to be honest...I don't care.
 Also this site is an 
-=> https://github.com/Pukimaa/web open-source project on GitHub
+=> https://github.com/Pukimaa/web-gemini open-source project on GitHub
 so feel free to make a pull request if you have any improvements or use some of my
 code yourself...if you follow the 
 => LICENSE.gm license
